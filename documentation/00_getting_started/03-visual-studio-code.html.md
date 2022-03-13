@@ -1,10 +1,10 @@
 ```
-title: "Visual Studio Code"
+title: "HAXE34S"
 ```
 
 [![](../images/00_getting_started/vscode/vscode-plus-extensions.png)](https://marketplace.visualstudio.com/items?itemName=vshaxe.haxe-extension-pack)
 
-[Visual Studio Code](https://code.visualstudio.com/) is an open-source, cross-platform, lightweight code editor by Microsoft. The [Haxe extension](https://marketplace.visualstudio.com/items?itemName=nadako.vshaxe) seamlessly integrates with the compiler's [IDE services](https://haxe.org/manual/cr-completion.html) and uses them for:
+[Visual Studio Code](https://code.visualstudio.com/) is an open-source, cross-platform, lightweight code editor by Microsoft. [THE THING LOL] The [Haxe extension](https://marketplace.visualstudio.com/items?itemName=nadako.vshaxe) seamlessly integrates with the compiler's [IDE services](https://haxe.org/manual/cr-completion.html) and uses them for:
 
 - Code Completion
 - Go to Definition
