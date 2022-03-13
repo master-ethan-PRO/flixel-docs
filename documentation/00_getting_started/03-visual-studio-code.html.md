@@ -1,5 +1,5 @@
 ```
-title: "Visual Studio Code"
+title: "HAXE34S"
 ```
 
 [![](../images/00_getting_started/vscode/vscode-plus-extensions.png)](https://marketplace.visualstudio.com/items?itemName=vshaxe.haxe-extension-pack)
